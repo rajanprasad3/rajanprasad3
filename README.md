@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Rajan Prasad</h1>
+<h1 align="center">Hey 👋, I'm Rajan Prasad</h1>
 <h3 align="center">A passionate Data Analyst & Aspiring Data Scientist</h3>
 
-<p align="center"> 
+<p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=rajanprasad3&label=Profile%20views&color=0e75b6&style=flat" alt="rajanprasad3" /> 
 </p>
 
@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [Codebasics Portfolio](https://codebasics.io/portfolio/RAJAN-PRASAD)
 
-- 💬 Ask me about **Business insights through data: Real projects. Real impact. Powered by Power BI, Excel, and SQL.**
+- 💬 Ask me about **Data Analytics — Real projects. Real impact. Powered by Power BI, Excel, SQL, NumPy, Python, and Pandas.**
 
 - 📫 How to reach me **rajanprasadomc@gmail.com**
 
@@ -56,17 +56,3 @@
     <img src="https://img.icons8.com/color/48/000000/microsoft-excel-2019--v1.png" alt="Excel" width="45" height="45"/> 
   </a>
 </p>
-
----
-
-<h3 align="center">📊 GitHub Stats:</h3>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rajanprasad3&show_icons=true&theme=radical" alt="Rajan's GitHub stats" />
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rajanprasad3&theme=radical" alt="Rajan's GitHub streak" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajanprasad3&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-
