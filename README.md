@@ -1,7 +1,7 @@
 <h1 align="center">Hey 👋, I'm Rajan Prasad</h1>
-<h3 align="center">A passionate Data Analyst & Aspiring Data Scientist</h3>
+<h3 align="left">A passionate Data Analyst & Aspiring Data Scientist</h3>
 
-<p align="left"> 
+<p align="right"> 
   <img src="https://komarev.com/ghpvc/?username=rajanprasad3&label=Profile%20views&color=0e75b6&style=flat" alt="rajanprasad3" /> 
 </p>
 
