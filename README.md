@@ -10,7 +10,7 @@
 
 - 🤝 I’m passionate about learning and collaborating on **real-world analytics and data science projects** that turn raw data into actionable insights and drive business growth
 
-- 👨‍💻 All of my projects are available at [Portfolio](https://codebasics.io/portfolio/RAJAN-PRASAD)
+- 👨‍💻 All of my projects are available at [Portfolio](https://rajanprasad3.github.io/)
 
 - 💬 Ask me about **Data Analytics — Real projects. Real impact. Powered by Power BI, Excel, SQL, NumPy, Python, and Pandas.**
 
