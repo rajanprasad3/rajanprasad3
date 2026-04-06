@@ -60,11 +60,10 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rajanprasad3&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajanprasad3&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" />
-</p>
+## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=rajanprasad3&theme=tokyonight&hide_border=true" />
-</p>
+![Stats](https://github-readme-stats.vercel.app/api?username=rajanprasad3&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rajanprasad3&layout=compact&theme=tokyonight)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=rajanprasad3&theme=tokyonight)
