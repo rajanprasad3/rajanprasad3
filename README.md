@@ -7,7 +7,7 @@
 - 🌱 I'm currently learning **AI/ML** and continuously growing my skills in **Data Science**
 - 💼 I have completed my **Data Analyst Internship at AtliQ Technologies**
 - 🤝 I'm passionate about learning and collaborating on **real-world analytics and data science projects** that turn raw data into actionable insights and drive business growth
-- 👨‍💻 All of my projects are available at [Portfolio](https://codebasics.io/portfolio/RAJAN-PRASAD)
+- 👨‍💻 All of my projects are available at [Portfolio](https://rajanprasad3.github.io/)
 - 💬 Ask me about **Data Analytics — Real projects. Real impact. Powered by Power BI, Excel, SQL, NumPy, Python, and Pandas.**
 - 📫 How to reach me: [rajanprasadomc@gmail.com](mailto:rajanprasadomc@gmail.com)
 - 📄 Know about my experiences: [View My Resume](https://drive.google.com/file/d/16UcK4VsyoPIThNsbNnKlLLpaTQPfsDSq/view?usp=drive_link)
@@ -60,9 +60,11 @@
 
 ## 📊 GitHub Stats
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=rajanprasad3&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajanprasad3&layout=compact&theme=tokyonight&hide_border=true" height="165" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rajanprasad3&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajanprasad3&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" />
 </p>
 
-![GitHub Streak](https://streak-stats.demolab.com?user=rajanprasad3&theme=tokyonight&hide_border=true)
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=rajanprasad3&theme=tokyonight&hide_border=true" />
+</p>
